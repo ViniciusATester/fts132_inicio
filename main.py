@@ -28,7 +28,14 @@ def calcular_area_do_triangulo(base, altura):
     return base * altura / 2
 
 def calcular_area_do_circulo(raio):
-    return math.pi * raio**2
+    '''return math.pi * raio**2'''
+
+    try:
+        return 3.14 * raio ** 2
+    except TypeError:
+        return 'Falha no calculo - Raio que não é um numero'
+
+
 
 
 
