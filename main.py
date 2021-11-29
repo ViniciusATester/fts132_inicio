@@ -35,7 +35,8 @@ def calcular_area_do_circulo(raio):
     except TypeError:
         return 'Falha no calculo - Raio que não é um numero'
 
-
+def calcular_volume_do_paralelograma(largura, comprimento, altura):
+    return largura * comprimento * altura
 
 
 
