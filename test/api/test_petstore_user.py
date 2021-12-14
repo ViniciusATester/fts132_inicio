@@ -221,10 +221,11 @@ def testar_login_do_usuario():
     valor = frase[7:18]
     print(f'O valor é: {valor}')
 
-def testar_sequencia_de_testes():
+'''def testar_sequencia_de_testes():
     testar_criar_usuario()
     testar_login_do_usuario()
     testar_alterar_usuario()
     testar_consultar_usuario()
-    testar_excluir_usuario()
+    testar_excluir_usuario()'''
+
 

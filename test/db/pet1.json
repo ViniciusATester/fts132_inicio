@@ -1,0 +1,18 @@
+{
+  "id": 97359,
+  "category": {
+    "id": 2,
+    "name": "cachorro"
+  },
+  "name": "Lessy",
+  "photoUrls": [
+    "https://webcachorros.com.br/wp-content/uploads/2014/05/WhatsApp-Image-2020-09-21-at-12.14.46.jpeg"
+  ],
+  "tags": [
+    {
+      "id": 9,
+      "name": "vacinado"
+    }
+  ],
+  "status": "available"
+}
